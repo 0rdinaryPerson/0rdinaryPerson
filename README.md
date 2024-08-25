@@ -1,27 +1,31 @@
-# Hi there, I'm Muhammad Sajid 👋
+# Hello There, I'm Muhammad Sajid
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in exploring the intersection of technology and creativity.
-
-## 🛠️ Skills & Expertise
+## Skills
 
 - **Languages**: Python, Java, JavaScript
+- **Web Development**: HTML/CSS, JavaScript
 - **Frontend Development**: Experienced in building responsive and dynamic web interfaces.
-- **Creative Coding**: Love to blend creativity with code to build innovative and visually appealing projects.
+- **Creative Coding**: Merging creativity with code to build innovative projects.
 
-## 🚀 Areas of Interest
+## Interests
 
-- **Full Stack Development**: Building end-to-end web applications.
-- **Creative Coding**: Developing projects that merge art and code.
-- **Cybersecurity**: Ensuring the security and integrity of digital systems.
+- **Full Stack Development**
+- **Creative Coding**
+- **Cybersecurity**
 
-## 🌱 Future Endeavors
+## Future Endeavors
 
-- **Robotics**: Exploring the world of automation and intelligent systems.
-- **AI/ML**: Diving into artificial intelligence and machine learning.
+- **Robotics**
+- **AI/ML**
 
-## 📫 How to Reach Me
+## Other Platforms
 
-- **Email**: muhammadsajidy04@gmail.com
-- **Phone**: +91 63801 98300
+- **[LinkedIn](https://www.linkedin.com/in/muhammad-sajid-y-1768b4290)**
+- **[Instagram](https://www.instagram.com/muhammadsajid_04)**
 
-Feel free to explore my repositories, contribute, or reach out for collaboration. Let's create something amazing together!
+## Contact Me
+
+- **Email**: [muhammadsajidy04@gmail.com]
+- **Phone**: [+91 63801 98300]
+
+---
