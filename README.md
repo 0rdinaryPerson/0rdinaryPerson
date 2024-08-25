@@ -25,7 +25,7 @@
 
 ## Contact Me
 
-- **Email**: [muhammadsajidy04@gmail.com]
-- **Phone**: [+91 63801 98300]
+- **Email**: muhammadsajidy04@gmail.com
+- **Phone**: +91 63801 98300
 
 ---
