@@ -1,7 +1,3 @@
-Here's a professional-looking README file for your GitHub profile:
-
----
-
 # Hi there, I'm Muhammad Sajid 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in exploring the intersection of technology and creativity.
@@ -29,5 +25,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Phone**: +91 63801 98300
 
 Feel free to explore my repositories, contribute, or reach out for collaboration. Let's create something amazing together!
-
----
