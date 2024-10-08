@@ -12,9 +12,9 @@ Hello There! I'm Sajid
 
 ## 🌱 Interests
 
-- **Full Stack Development:** 
-- **Neural Networks:** 
-- **Creative Coding:** 
+- **Full Stack Development** 
+- **Neural Networks** 
+- **Creative Coding** 
 
 ## 📫 Connect with Me
 
