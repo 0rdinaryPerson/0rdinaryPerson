@@ -3,8 +3,9 @@ I'm a programmer passionate about web development, creative coding, and machine 
 
 ### 🛠 Skills & Tools
 - Languages: Python | JavaScript 
-- Frameworks & Libraries: React.js | Tailwind CSS 
-- Interests: Full-stack development, machine learning, and cybersecurity 
+- Web Development: React.js | Tailwind CSS
+- Mobile App Development: React Native 
+- Interests: Full-stack development, Operating Systems, Machine learning, and Cybersecurity 
 
 ### 🚀 Current Focus
 - Exploring AI/ML and robotics 
