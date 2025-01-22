@@ -3,7 +3,8 @@ I'm a programmer passionate about web development, creative coding, and machine 
 
 ### 🛠 Skills & Tools
 - Languages: Python | JavaScript 
-- Web Development: React.js | Tailwind CSS
+- Web Development: React.js | Tailwind CSS | FastAPI
+- Databases: MongoDB | SQL
 - Mobile App Development: React Native 
 - Interests: Full-stack development, Operating Systems, Machine learning, and Cybersecurity 
 
